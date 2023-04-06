@@ -19,3 +19,7 @@ zip -r ~/publish.zip ./*
 
 Once the file is zipped, you can drag and drop it onto the chrome://extensions 
 page to install the extension.
+
+You can also load the unpacked project in development mode, if your browser 
+doesn't support drag and drop:
+- https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
