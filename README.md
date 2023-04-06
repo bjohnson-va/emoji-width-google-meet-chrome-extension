@@ -14,7 +14,7 @@ This extension **should** be available from the CWS:
 #### Install by building from source
 Clone this repo and run:
 ```shell
-zip ~/publish.zip ./*
+zip -r ~/publish.zip ./*
 ```
 
 Once the file is zipped, you can drag and drop it onto the chrome://extensions 
