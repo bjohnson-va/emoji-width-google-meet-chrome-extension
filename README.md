@@ -8,7 +8,7 @@ to avoid accidental hand raises.
 ### Installation
 
 #### Install via Chrome Web Store
-This extension **should** be available from the CWS:
+This extension **should** be available from:
 - https://chrome.google.com/webstore/detail/jfehmdbdjehkghjdlaclfebhgpmikhoi
 
 #### Install by building from source
