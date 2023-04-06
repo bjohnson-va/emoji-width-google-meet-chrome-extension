@@ -6,7 +6,6 @@ setInterval(() => {
     }
     document.querySelectorAll("i.google-material-icons").forEach(v => {
         let s = v.textContent.trim();
-        console.log('textContent', s)
         if (s !== "mood") {
             return;
         }
